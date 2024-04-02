@@ -1,0 +1,36 @@
+body {
+    background-color: hsl(217, 68%, 85%);
+    font-family: "Outfit", sans-serif;
+}
+
+.attribution {
+     font-size: 11px;
+     text-align: center;
+     
+     }
+
+ .attribution a {
+     color: hsl(228, 45%, 44%); 
+    }
+
+.card {
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+    width: 300px;
+    text-align: center;
+    margin: 50px auto;
+    
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+p {
+    opacity: 0.5;
+    font-size: 15px;
+}
+
